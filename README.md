@@ -3,7 +3,7 @@
 A responsive, multi-page business website built from scratch to showcase clean HTML architecture and custom structural layout engineering.
 
 ## 🚀 Live Demo
-👉 [Click here to view the live website](YOUR_GITHUB_PAGES_LINK_HERE)
+👉 [Click here to view the live website] https://hussainranadev-aim.github.io/Social_Media_Marketing_Website-Practice/
 
 ---
 
